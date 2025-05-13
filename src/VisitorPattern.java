@@ -1,3 +1,10 @@
+//Elif İlkay Özkan
+//Yakup Atıcı
+//Ömer Gökberk Gök
+//Hami Deniz Kaynak
+//Smart City Application
+
+
 // Visitor interface for sensors
 interface SensorVisitor {
     // Method to visit a sensor
