@@ -1,3 +1,10 @@
+//Elif İlkay Özkan
+//Yakup Atıcı
+//Ömer Gökberk Gök
+//Hami Deniz Kaynak
+//Smart City Application
+
+
 import java.util.ArrayList;
 import java.util.List;
 
