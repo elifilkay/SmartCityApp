@@ -1,3 +1,8 @@
+//Elif İlkay Özkan
+//Yakup Atıcı
+//Ömer Gökberk Gök
+//Hami Deniz Kaynak
+//Smart City Application
 
 // Command interface - to be implemented by concrete commands
 interface Command {
